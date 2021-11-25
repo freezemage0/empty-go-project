@@ -1,3 +1,5 @@
-module freezemage0/empty-go-project
+module go.mod
 
 go 1.17
+
+replace freezemage0/empty-go-project 0.0.0 => github.com/freezemage0/empty-go-project 0.0.0
