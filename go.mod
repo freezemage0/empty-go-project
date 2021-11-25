@@ -1,4 +1,4 @@
-module go.mod
+module empty-go-project
 
 go 1.17
 
